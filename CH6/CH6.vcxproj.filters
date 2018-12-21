@@ -14,4 +14,81 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="6-1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1-4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1-연습문제1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1-연습문제1-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1-연습문제2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1-연습문제3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1-연습문제4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1-연습문제5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2-5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2-nineninedan.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2-test1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2-도전1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2-도전2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2-도전3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2-연습문제4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2-연습문제5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fibonacci.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="forif.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="seqchar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="tenout.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="threesixnine.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
